@@ -1,0 +1,8 @@
+title: my portfolio
+name: Emily Bryant
+email: emilybryant2004@gmail.com
+
+collection:
+  design:
+    output: true
+    permalink: /:collection/:path/
