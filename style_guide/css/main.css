@@ -1,2 +1,45 @@
+@charset "UTF-8";
 /* CSS Document */
 
+
+header {
+	background-color: #3C3CA1;
+}
+body {
+	background-color: #030340;
+}
+
+.headcopy {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: white;
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+.table {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+}
+
+.headcopytable {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: white;
+	font-size: 25px;
+	padding: 10px;
+}
+
+.td {
+	margin: auto;
+	width: 30%;
+	padding:10px;
+	color: white;
+}
+.tdfont {
+	margin: auto;
+	width: 30%;
+	padding: 10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: white;
+}
