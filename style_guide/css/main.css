@@ -6,7 +6,7 @@ header {
 	background-color: #3C3CA1;
 }
 body {
-	background-color: #030340;
+	background-color: #D8C5FF;
 }
 
 .headcopy {
@@ -42,4 +42,69 @@ body {
 	padding: 10px;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	color: white;
+}
+
+.abhaya-libre-regular {
+  font-family: "Abhaya Libre", serif;
+  font-weight: 400;
+  font-style: normal;
+	color: white;
+}
+
+.abhaya-libre-medium {
+  font-family: "Abhaya Libre", serif;
+  font-weight: 500;
+  font-style: normal;
+	color: white;
+}
+
+.abhaya-libre-semibold {
+  font-family: "Abhaya Libre", serif;
+  font-weight: 600;
+  font-style: normal;
+	color: white;
+}
+
+.abhaya-libre-bold {
+  font-family: "Abhaya Libre", serif;
+  font-weight: 700;
+  font-style: normal;
+	color: white;
+}
+
+.abhaya-libre-extrabold {
+  font-family: "Abhaya Libre", serif;
+  font-weight: 800;
+  font-style: normal;
+	color: white;
+}
+
+.square1 {
+  height: 50px;
+  width: 50px;
+  background-color: #6767C3;
+}
+
+.square2 {
+  height: 50px;
+  width: 50px;
+  background-color: #3C3CA1;
+}
+
+.square3 {
+  height: 50px;
+  width: 50px;
+  background-color: #030340;
+}
+
+.square4 {
+  height: 50px;
+  width: 50px;
+  background-color: #B2B2FF;
+}
+.piccenter {
+	margin: auto;
+	padding: 2%;
+	width: 50%;
+	display: block;
 }
